@@ -107,3 +107,5 @@ It covers following tests
 ```
 
 If you want to add more combinations in tests you can just add more elements in dataprovider functions in tests/PaymentDatesClientTest.php.
+
+For any further queries you can contact me on **waseem.akhtar37@gmail.com**
