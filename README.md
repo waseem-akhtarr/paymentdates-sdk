@@ -11,7 +11,7 @@ the previous Friday.
 
 • On the 10th of every month bonuses are paid for the previous month, unless the
 10 th is Saturday or Sunday. In that case, staff get their bonuses on the first
-Tuesday after the 10th .
+Tuesday after the 10th.
 
 ## Getting Started
 
