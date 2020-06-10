@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit backupGlobals="false"
+         backupStaticAttributes="true"
+         colors="true"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+         processIsolation="false"
+         stopOnFailure="false"
+         testdox="true">
+    <php>
+        <env name="VALID_MONTH" value="1" />
+        <env name="VALID_YEAR" value="2016" />
+    </php>
+</phpunit>

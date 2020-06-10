@@ -1,0 +1,35 @@
+{
+  "name": "waseem-akhtarr/paymentdates-sdk",
+  "description": "SDK for getting payment dates.",
+  "type": "package",
+  "authors": [
+    {
+      "name": "Waseem Akhtar",
+      "email": "waseem.akhtar37@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "phpunit/phpunit": "^9.2",
+    "ext-calendar": "*"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "files": [
+    ],
+    "psr-4": {
+      "WaseemAkhtarr\\PaymentDatesSDK\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "WaseemAkhtarr\\PaymentDatesSDK\\Tests\\": "tests/"
+    }
+  },
+  "config": {
+    "platform": {
+      "php": "7.4"
+    }
+  }
+}
