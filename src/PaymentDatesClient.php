@@ -34,7 +34,7 @@ class PaymentDatesClient
     /**
      * @return string
      */
-    public function getCSVHeader(): string
+    private function getCSVHeader(): string
     {
         return 'Month,Salary Date, Bonus Date' . PHP_EOL;
     }
